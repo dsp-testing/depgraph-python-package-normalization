@@ -16,7 +16,7 @@
         ]
     },
     "default": {
-        "clickhouse-driver": {
+        "clickhouse_driver": {
             "hashes": [
                 "sha256:1d555d2567cac38138dcd3c282060d1bbd551a562ce38f6c307014646686bba5"
             ],
