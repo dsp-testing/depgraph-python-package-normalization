@@ -7,7 +7,7 @@ name = "pypi"
 clickhouse_driver = "==0.0.2"
 clickhouse__driver = "==0.0.2"
 clickhouse___driver = "==0.0.3"
-jupiter___server
+jupiter___server  = "==0.0.3"
 
 [dev-packages]
 
